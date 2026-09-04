@@ -64,13 +64,13 @@ Housing Dataset ──► Google BigQuery (SQL Queries) ──► Power BI Data 
 # Snapshot of Dashboard
 
 ### Page 1 – House Market Overview
-![House Market Overview](1.png)
+![House Market Overview](house-market-overview.png)
 
 ### Page 2 – Sales Performance
-![Sales Performance](2.png)
+![Sales Performance](sales-performance.png)
 
 ### Page 3 – House Type Analysis
-![House Type Analysis](3.png)
+![House Type Analysis](house-type-analysis.png)
 
 ---
 
