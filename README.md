@@ -7,7 +7,7 @@
 
 ---
 
-### Dashboard Link: [Insert Your Power BI Public/Service Link Here]
+### Dashboard Link: [https://app.powerbi.com/view?r=eyJrIjoiMTVjZDc4OTYtMWI2MS00ZjczLTkzOTctZWMwNjg4NmZmNDEwIiwidCI6IjJhYTJkZTVkLTllNTktNDhlOS04NzU1LTA3YzRiYWExNmEyMiJ9]
 
 ---
 
